@@ -1,0 +1,3 @@
+[submodule "api-loja-mc"]
+	path = api-loja-mc
+	url = https://github.com/IsaquePhp/api-loja-mc.git
